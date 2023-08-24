@@ -3,12 +3,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=53C14B&height=250&section=header&text=jinyong1015&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
   
 <br>
-🔭 I'm JINYONG JUNG,  a front-end developer.<div>
+🔭 <strong>I'm JINYONG JUNG,  a front-end developer. </strong>
 
 <br>
 <br>
 
-🔧My Tech Spec</div><br>
+🔧 <strong>My Tech Spec </strong>
+<br>
 <div>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c%2B%2B&logoColor=white">
