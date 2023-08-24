@@ -1,5 +1,9 @@
 <div align= center> 🔭 I'm JINYONG JUNG, a front-end developer.<div>
 
+<br>
+<br>
+<br>
+<br>
 
   
 <div align=center>🔧My Tech Spec</div>
