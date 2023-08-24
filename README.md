@@ -1,6 +1,5 @@
-<div align= center> <h2>🔭 I'm JINYONG JUNG, a front-end developer.</h2>
-
-<div align=center><h2>🔧My Tech Spec</h2></div>
+<div align= center> 🔭 I'm JINYONG JUNG, a front-end developer.<div>
+<div align=center>🔧My Tech Spec</div>
 <div align=center>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c%2B%2B&logoColor=white">
