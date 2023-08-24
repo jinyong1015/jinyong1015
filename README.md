@@ -1,4 +1,4 @@
-<div align= center>
+<div align="center">
 ![header](https://capsule-render.vercel.app/api?type=waving&color=53C14B&height=250&section=header&text=jinyong1015&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 🔭 I'm JINYONG JUNG,  a front-end developer.<div>
 
