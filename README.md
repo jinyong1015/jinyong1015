@@ -1,11 +1,12 @@
+<div align= center>
 ![header](https://capsule-render.vercel.app/api?type=waving&color=53C14B&height=250&section=header&text=jinyong1015&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
-<div align= center> 🔭 I'm JINYONG JUNG,  a front-end developer.<div>
+🔭 I'm JINYONG JUNG,  a front-end developer.<div>
 
 <br>
 <br>
 
-<div align=center>🔧My Tech Spec</div><br>
-<div align=center>
+🔧My Tech Spec</div><br>
+<div>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -20,10 +21,9 @@
   <img src="https://img.shields.io/badge/Typescript-007ACC?style=for-the-badge&logo=Typescript&logoColor=white"/>
 </div>
 
- <div align = center>
- 
- </div>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=53C14B&height=250&fontColor=ffffff&section=footer&animation=fadeIn&stroke=C6C6C6)
 
+</div>
 <!--
 **jinyong1015/jinyong1015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
