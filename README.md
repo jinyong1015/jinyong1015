@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div align=center>My Tech Spec</div>
+<div align=center><h2>🌱My Tech Spec</h2></div>
 <div align=center>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -15,7 +15,9 @@
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 </div>
  
-
+<div align=center>
+[![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinyong1015)](https://github.com/jinyong1015/github-readme-stats)
+<div>
 <!--
 **jinyong1015/jinyong1015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
