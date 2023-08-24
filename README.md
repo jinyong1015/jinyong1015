@@ -1,5 +1,5 @@
 <div algin= center>
-![header](https://capsule-render.vercel.app/api?type=waving&color=53C14B&height=250&section=header&text=jinyong1015&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
+
 </div>
 <div align= center> 🔭 I'm JINYONG JUNG,  a front-end developer.<div>
 
@@ -23,7 +23,7 @@
 </div>
 
  <div align = center>
- ![footer](https://capsule-render.vercel.app/api?type=waving&color=53C14B&height=250&fontColor=ffffff&section=footer&animation=fadeIn&stroke=C6C6C6)
+ 
  </div>
 
 <!--
