@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=53C14B&height=250&section=header&text=jinyong1015&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
+<div align= center>![header](https://capsule-render.vercel.app/api?type=waving&color=53C14B&height=250&section=header&text=jinyong1015&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55) </div>
 
 <div align= center> 🔭 I'm JINYONG JUNG, a front-end developer.<div>
 
@@ -16,10 +16,12 @@
   
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+  <img src="https://img.shields.io/badge/Typescript-007ACC?style=for-the-badge&logo=Typescript&logoColor=white"/>
 </div>
- 
+
+ <div align = center> ![footer](https://capsule-render.vercel.app/api?type=waving&color=53C14B&height=250&fontColor=ffffff&section=footer&animation=fadeIn&stroke=C6C6C6)
 
 <!--
 **jinyong1015/jinyong1015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
